@@ -10,3 +10,9 @@
 4. **bappy-power:** Rofi power menu (VNC shutdown, desktop reload, manual RAM turbo).
 5. **v-enter & toggle-enter:** Floating Xlib Enter button for portrait-mode typing convenience.
 6. **clean-sys:** Deep system and cache cleanup utility.
+## Live Video Demo (3.6GB RAM GIS Workstation)
+
+[![BAPPY-OS Live Demo](https://img.youtube.com/vi/Tfv2nv-k0b4/hqdefault.jpg)](https://www.youtube.com/watch?v=Tfv2nv-k0b4)
+
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch_Full_Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=Tfv2nv-k0b4)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-BAPPY--OS-black?style=for-the-badge&logo=github)](https://github.com/rebelliousbappy-design/BAPPY-OS-Debian13-Chroot)
