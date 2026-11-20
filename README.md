@@ -12,7 +12,7 @@
 6. **clean-sys:** Deep system and cache cleanup utility.
 ## Live Video Demo (3.6GB RAM GIS Workstation)
 
-[![BAPPY-OS Live Demo](https://img.youtube.com/vi/DoDjPZFRag/hqdefault.jpg)](https://www.youtube.com/watch?v=Tfv2nv-k0b4)
+[![BAPPY-OS Live Demo](https://img.youtube.com/vi/rDoDjPZFRag/hqdefault.jpg)](https://www.youtube.com/watchv=rDoDjPZFRag)
 
-[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch_Full_Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=DoDjPZFRag)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch_Full_Demo-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=rDoDjPZFRag)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-BAPPY--OS-black?style=for-the-badge&logo=github)](https://github.com/rebelliousbappy-design/BAPPY-OS-Debian13-Chroot)
